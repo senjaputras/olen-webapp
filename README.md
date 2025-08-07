@@ -1,1 +1,2 @@
-# olen-webapp
+# STILL ON DEVELOPMENT!
+# olen-webapp - Financial Tracker
